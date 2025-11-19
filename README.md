@@ -1,7 +1,7 @@
 # 🚀 Emotion Detection ML Project
 Emotion detection model on 40k tweets – TF-IDF + LinearSVC. Colab notebook, model artifacts, and prompt templates included.
 
-**Accuracy:** 78%
+**Accuracy:** 76%
 
 ## 📊 Results (Confusion Matrix)
 ![Confusion Matrix](screenshots/Screenshot%202025-11-18%20195238.png)
